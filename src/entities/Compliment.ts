@@ -19,7 +19,7 @@ class Compliment {
   @Column()
   user_sender: string;
 
-  @JoinColumn({ name: "user_sender" })
+  @JoinColumn({ name: "user_sender"})
   @ManyToOne(() => User) // muitos compliments para um usuário
   userSender: User;
 
