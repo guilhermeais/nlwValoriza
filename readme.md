@@ -2,7 +2,7 @@
 ## NLW Valoriza foi um projeto em NodeJS que desenvolvi na Next Level Week da RocketSeat🚀
 <p align="center">
  <a href="#Objetivo">Objetivo</a> •
- <a href="#O que eu aprendi?">O que eu aprendi?</a> • 
+ <a href="#✍ O que eu aprendi?">O que eu aprendi?</a> • 
 </p>
 
 ## 🤔 **Objetivo**
